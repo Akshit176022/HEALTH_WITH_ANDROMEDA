@@ -1,15 +1,15 @@
 {
-    "name": "cosmiccare ",
+    "name": "Cosmiccare",
     "description": "HealthAid unites individuals facing health challenges with compassionate donors, fostering a nurturing community where users share adversities and seek financial assistance. Users rally behind critical health causes, empowering collective action to alleviate medical expenses, fund treatments, and support ongoing care. Each health issue undergoes meticulous verification, with users providing relevant documents like medical records, instilling donor confidence in genuine need. Donating is simple and secure via our integrated crowdfunding system, allowing direct contributions to individual campaigns, whether one-time or recurring. Beyond financial aid, HealthAid fosters solidarity through messaging features and support forums, connecting individuals facing similar challenges. User privacy is prioritized with stringent security measures ensuring sensitive information is handled with care and compliance. Regular updates on campaign progress reinforce our commitment to accountability and transparency, ensuring donors witness tangible impact. Whether navigating personal health journeys or seeking to make a difference, HealthAid welcomes all to bridge support, heal hearts, and inspire hope.",
-    "image": "https://img.freepik.com/free-vector/group-medical-staff-carrying-health-related-icons_53876-43071.jpg",
+    "image": "image url",
     "attributes": [
         {
-            "trait_type": "Infectious Diseases",
-            "value": "200000"
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
         },
         {
-            "trait_type": "Chronic Diseases",
-            "value": "200000"
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
         }
     ]
 }
